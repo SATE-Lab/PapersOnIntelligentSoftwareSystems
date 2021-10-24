@@ -65,3 +65,14 @@
 ## Others
 - Testing DNN Image Classifiers for Confusion & Bias Errors. [[pdf]](https://dl.acm.org/doi/10.1145/3377811.3380400) 
   - Tian, Yuchi and Zhong, Ziyuan and Ordonez, Vicente and Kaiser, Gail and Ray, Baishakhi. *ICSE*, 2020.
+
+# Tools
+
+- Adversarial Robustness Toolbox (ART). [[Code]](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+- OpenAttack. [[Code]](https://github.com/thunlp/OpenAttack)
+- nlpaug. [[Code]](https://github.com/makcedward/nlpaug)
+
+# Links
+
+- Conference' level Reference: [CCF](https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/)
+
